@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834783507138",
+    "project_id": "pumkis-e3735",
+    "storage_bucket": "pumkis-e3735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834783507138:android:84af087bdcb4910507015b",
+        "android_client_info": {
+          "package_name": "com.example.doggie_diet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFJS-_M1SCFRKTMs74Jd3uY2UwLd1HJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
