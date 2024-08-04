@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/shopicon"
+        android:title="Shop" />
+    <item
+        android:id="@+id/navigation_whats_new"
+        android:icon="@drawable/newsicon"
+        android:title="What's New" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/usericon"
+        android:title="Profile" />
+</menu>
